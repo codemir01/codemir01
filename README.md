@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemir01&" alt="codemir01" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/codemir01/codemir01/blob/output/github-contribution-grid-snake.gif)
 
