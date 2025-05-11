@@ -21,6 +21,3 @@
 
 
 
-![snake gif](https://github.com/codemir01/codemir01/blob/output/github-contribution-grid-snake.gif)
-
-
