@@ -40,4 +40,4 @@ Backend ağırlıklı Full Stack Developer olmak ve kurumsal ölçekte yazılım
 
 ---
 
-📫 İletişim: (LinkedIn linkini ekleyebilirsin)
+📫 İletişim: [https://www.linkedin.com/in/emir-han/]
